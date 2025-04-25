@@ -2,7 +2,9 @@
 ![Screenshot 2025-04-25 224825](https://github.com/user-attachments/assets/965939f1-89db-4518-b69d-bf3c771aabd4)
 # Sections Description with Short Insights
 KPI Cards
+
 Revenue: $26,35,443
+
 Average Horsepower: 103.4 HP
 
 # Insight: Displays overall financial and performance averages across the dataset.
